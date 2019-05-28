@@ -1,0 +1,73 @@
+# IPython log file
+
+%run 1.3.2/Vadali_1.3.2.py
+# Thu, 06 Dec 2018 20:55:30
+add_tip(5,20)
+#[Out]# 105
+# Thu, 06 Dec 2018 20:56:15
+a = add_tip(20,0.15)
+# Thu, 06 Dec 2018 20:56:19
+a
+#[Out]# 23.0
+# Thu, 06 Dec 2018 20:59:01
+#17a. Hypotenuse test
+# Thu, 06 Dec 2018 20:59:10
+hyp(3,4)
+# Thu, 06 Dec 2018 21:00:32
+%run 1.3.2/Vadali_1.3.2.py
+# Thu, 06 Dec 2018 21:00:38
+hyp(3,4)
+#[Out]# 5.0
+# Thu, 06 Dec 2018 21:02:15
+ %run 1.3.2/Vadali_1.3.2.py
+# Thu, 06 Dec 2018 21:02:26
+#17b. Mean test
+# Thu, 06 Dec 2018 21:02:35
+mean(3,4,7)
+# Thu, 06 Dec 2018 21:02:52
+ %run 1.3.2/Vadali_1.3.2.py 
+# Thu, 06 Dec 2018 21:03:00
+mean(3,4,7)
+# Thu, 06 Dec 2018 21:05:19
+connor = dumberthansragvi
+# Thu, 06 Dec 2018 21:05:28
+connr = 5
+# Thu, 06 Dec 2018 21:05:30
+connor
+# Thu, 06 Dec 2018 21:05:38
+mean
+# Fri, 07 Dec 2018 20:46:03
+mean(3,4,7
+4567890-
+oi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%logstop
+)

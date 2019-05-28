@@ -1,0 +1,47 @@
+# IPython log file
+
+%run Vadali_Scomparin_1.4.3.py
+%run Vadali_Scomparin_1.4.3.py
+%run Vadali_Scomparin_1.4.3.py
+%logstart -ort 1.4.3/Vadali_1.4.3.2.logs
+cd ..
+# Mon, 18 Feb 2019 22:09:14
+%run make_mask.py
+# Mon, 18 Feb 2019 22:09:17
+ls
+# Mon, 18 Feb 2019 22:09:20
+cd 1.4.3
+# Mon, 18 Feb 2019 22:09:24
+%run make_mask.py
+# Mon, 18 Feb 2019 22:09:29
+ls
+# Mon, 18 Feb 2019 22:09:58
+%run make_mask .py
+# Mon, 18 Feb 2019 22:10:21
+%run make_mask.py
+# Mon, 18 Feb 2019 22:22:35
+%run Vadali_Scomparin_1.4.3.py
+# Tue, 19 Feb 2019 01:09:55
+%run Vadali_Scomparin_1.4.3.py
+# Wed, 20 Feb 2019 05:19:48
+%run Vadali_Scomparin_1.4.3.py
+# Wed, 20 Feb 2019 05:20:05
+%run Vadali_Scomparin_1.4.3.py
+# Wed, 20 Feb 2019 05:20:10
+ls
+# Wed, 20 Feb 2019 05:22:02
+%run Vadali_Scomparin_1.4.3.py
+# Wed, 20 Feb 2019 05:22:14
+%run Vadali_Scomparin_1.4.3.py
+# Wed, 20 Feb 2019 05:22:29
+%run Vadali_Scomparin_1.4.3.py
+# Wed, 20 Feb 2019 05:23:09
+%run Vadali_Scomparin_1.4.3.py
+# Wed, 20 Feb 2019 05:23:16
+%run Vadali_Scomparin_1.4.3.py
+# Wed, 20 Feb 2019 05:23:22
+%run Vadali_Scomparin_1.4.3.py
+# Wed, 20 Feb 2019 05:23:33
+%run Vadali_Scomparin_1.4.3.py
+# Thu, 21 Feb 2019 21:08:51
+exit

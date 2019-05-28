@@ -1,0 +1,38 @@
+# IPython log file
+
+# Fri, 07 Dec 2018 20:48:52
+"""Conclusion Questions """
+#[Out]# 'Conclusion Questions '
+# Fri, 07 Dec 2018 20:55:42
+""" Conclusion Question #2: In this assignment, we looked at funtions and parameters. We also talkied about the native datas like floats, inits, and defining functions. We looked how it dviding is different between dividing floats and integers. """
+#[Out]# ' Conclusion Question #2: In this assignment, we looked at funtions and parameters. We also talkied about the native datas like floats, inits, and defining functions. We looked how it dviding is different between dividing floats and integers. '
+# Fri, 07 Dec 2018 20:57:36
+""" Conclusion Question #3: In command line, you are using commands to travel and push files through the directories.While in ipython, we are using and runnig code that we do through a python file. This helps the see and log information. Also in ipython, we can log out data, while in command line, all of our data is lost. """ 
+#[Out]# ' Conclusion Question #3: In command line, you are using commands to travel and push files through the directories.While in ipython, we are using and runnig code that we do through a python file. This helps the see and log information. Also in ipython, we can log out data, while in command line, all of our data is lost. '
+# Fri, 07 Dec 2018 20:58:12
+""" conclusion Question #4: 
+"""
+#[Out]# ' conclusion Question #4: \n'
+# Fri, 07 Dec 2018 21:00:20
+""" Conclusion Question #4: An advantage is that the code is niely organized and we are ble to see what errors there mighht be. Also, we can define a function to have many paraeters, while in ipython, we can only give a variable a given value. Also, in this, you can reuse the code without rewriting the code again. """
+#[Out]# ' Conclusion Question #4: An advantage is that the code is niely organized and we are ble to see what errors there mighht be. Also, we can define a function to have many paraeters, while in ipython, we can only give a variable a given value. Also, in this, you can reuse the code without rewriting the code again. '
+# Fri, 07 Dec 2018 21:02:11
+%run 1.3.2/Vadali_1.3.2.py
+# Fri, 07 Dec 2018 21:02:40
+%run 1.3.2/Vadali_1.3.2.py
+# Fri, 07 Dec 2018 21:03:28
+%run 1.3.2/Vadali_1.3.2.py
+# Fri, 07 Dec 2018 21:03:54
+%run 1.3.2/Vadali_1.3.2.py
+# Fri, 07 Dec 2018 21:15:12
+%run 1.3.3/Vadali_1.3.3.py
+# Fri, 07 Dec 2018 21:15:17
+5
+#[Out]# 5
+# Fri, 07 Dec 2018 21:15:24
+n == 5
+# Fri, 07 Dec 2018 21:15:37
+question(4)
+#[Out]# 3.5
+# Fri, 07 Dec 2018 21:16:15
+exit

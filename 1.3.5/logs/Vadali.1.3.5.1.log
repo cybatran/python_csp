@@ -1,0 +1,80 @@
+# IPython log file
+
+# Mon, 07 Jan 2019 20:50:33
+from __future__ import print_function
+# Mon, 07 Jan 2019 20:51:56
+type(6,000,000)
+# Mon, 07 Jan 2019 20:53:17
+type('tr' + "y this")
+#[Out]# str
+# Mon, 07 Jan 2019 20:53:31
+type('tr' + 5)
+# Mon, 07 Jan 2019 20:56:08
+slogan = 'My school is the best'
+# Mon, 07 Jan 2019 21:01:33
+ slogan 
+#[Out]# 'My school is the best'
+# Mon, 07 Jan 2019 21:02:13
+string[17: ]
+# Mon, 07 Jan 2019 21:02:29
+slogan[17: ]
+#[Out]# 'best'
+# Mon, 07 Jan 2019 21:05:35
+slogan
+#[Out]# 'My school is the best'
+# Mon, 07 Jan 2019 21:05:45
+"Dublin High School" + slogan[9:]  
+#[Out]# 'Dublin High School is the best'
+# Mon, 07 Jan 2019 21:13:57
+ how_eligible('This? "Yes." No, not really!')
+# Mon, 07 Jan 2019 21:14:32
+%run 1.3.5/Vadali_1.3.5.py
+# Mon, 07 Jan 2019 21:14:37
+ how_eligible('This? "Yes." No, not really!')
+# Mon, 07 Jan 2019 21:14:44
+%run 1.3.5/Vadali_1.3.5.py
+# Mon, 07 Jan 2019 21:14:46
+ how_eligible('This? "Yes." No, not really!')
+#[Out]# 28
+# Mon, 07 Jan 2019 21:18:02
+%run 1.3.5/Vadali_1.3.5.py
+# Mon, 07 Jan 2019 21:18:04
+ how_eligible('This? "Yes." No, not really!')
+#[Out]# 1
+# Mon, 07 Jan 2019 21:18:39
+%run 1.3.5/Vadali_1.3.5.py
+# Mon, 07 Jan 2019 21:18:41
+ how_eligible('This? "Yes." No, not really!')
+# Mon, 07 Jan 2019 21:18:56
+%run 1.3.5/Vadali_1.3.5.py
+# Mon, 07 Jan 2019 21:18:59
+ how_eligible('This? "Yes." No, not really!')
+#[Out]# 1
+# Mon, 07 Jan 2019 21:21:45
+%run 1.3.5/Vadali_1.3.5.py
+# Mon, 07 Jan 2019 21:21:47
+ how_eligible('This? "Yes." No, not really!')
+#[Out]# 1
+# Mon, 07 Jan 2019 21:24:46
+%run 1.3.5/Vadali_1.3.5.py
+# Mon, 07 Jan 2019 21:25:03
+ how_eligible('This? "Yes." No, not really!')
+# Mon, 07 Jan 2019 21:30:16
+%run 1.3.5/Vadali_1.3.5.py
+# Mon, 07 Jan 2019 21:30:24
+%run 1.3.5/Vadali_1.3.5.py
+# Mon, 07 Jan 2019 21:30:48
+%run 1.3.5/Vadali_1.3.5.py
+# Mon, 07 Jan 2019 21:30:50
+ how_eligible('This? "Yes." No, not really!')
+# Mon, 07 Jan 2019 21:32:17
+%run 1.3.5/Vadali_1.3.5.py
+# Mon, 07 Jan 2019 21:32:19
+ how_eligible('This? "Yes." No, not really!')
+#[Out]# 4
+# Mon, 07 Jan 2019 21:33:00
+%run 1.3.5/Vadali_1.3.5.py
+# Mon, 07 Jan 2019 21:33:07
+%run 1.3.5/Vadali_1.3.5.py
+# Mon, 07 Jan 2019 21:34:04
+%logstop

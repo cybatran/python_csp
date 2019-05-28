@@ -1,0 +1,158 @@
+# IPython log file
+
+%logstart -ort 1.3.7/logs/Vadali.1.3.7.1.log
+cds
+cd
+cd workspace
+cd csp_code
+ls
+cd csp-code
+# Tue, 22 Jan 2019 20:53:44
+roll_hundred_pair()
+# Tue, 22 Jan 2019 20:53:55
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 20:54:01
+roll_hundred_pair()
+# Tue, 22 Jan 2019 20:55:15
+roll_hundred_pair()
+# Tue, 22 Jan 2019 20:56:56
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 20:57:01
+pics()
+# Tue, 22 Jan 2019 20:57:07
+picks()
+# Tue, 22 Jan 2019 21:00:53
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:01:03
+dice(50
+)
+# Tue, 22 Jan 2019 21:01:07
+dice(5)
+# Tue, 22 Jan 2019 21:01:23
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:01:24
+dice(5)
+# Tue, 22 Jan 2019 21:01:32
+/home/ubuntu/workspace/csp-code/1.3.7/Vadali_1.3.7.py in dice(n)
+# Tue, 22 Jan 2019 21:01:37
+     47     roll 
+# Tue, 22 Jan 2019 21:02:40
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:02:44
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:02:57
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:03:00
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:03:07
+roll_hundred_pair
+#[Out]# <function __main__.roll_hundred_pair>
+# Tue, 22 Jan 2019 21:03:10
+roll_hundred_pair()
+# Tue, 22 Jan 2019 21:03:42
+roll_hundred_pair()
+# Tue, 22 Jan 2019 21:03:56
+roll_hundred_pair()
+# Tue, 22 Jan 2019 21:04:15
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:04:17
+roll_hundred_pair()
+# Tue, 22 Jan 2019 21:08:38
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:08:45
+dice(n)
+# Tue, 22 Jan 2019 21:08:49
+dice()
+# Tue, 22 Jan 2019 21:08:53
+dice(5)
+# Tue, 22 Jan 2019 21:10:22
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:10:24
+dice(5)
+# Tue, 22 Jan 2019 21:10:51
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:10:52
+dice(5)
+# Tue, 22 Jan 2019 21:11:47
+dice(5)
+# Tue, 22 Jan 2019 21:11:51
+dice(5)
+# Tue, 22 Jan 2019 21:11:53
+dice(5)
+# Tue, 22 Jan 2019 21:12:10
+dice(5)
+# Tue, 22 Jan 2019 21:12:11
+dice(5)
+# Tue, 22 Jan 2019 21:12:40
+dice(5)
+# Tue, 22 Jan 2019 21:12:45
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:12:46
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:12:48
+dice(5)
+# Tue, 22 Jan 2019 21:13:08
+dice(5)
+# Tue, 22 Jan 2019 21:13:10
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:13:11
+dice(5)
+# Tue, 22 Jan 2019 21:16:05
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:16:07
+dice(5)
+# Tue, 22 Jan 2019 21:16:28
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:16:30
+dice(5)
+# Tue, 22 Jan 2019 21:17:24
+dice(5)
+# Tue, 22 Jan 2019 21:17:30
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:17:31
+dice(5)
+# Tue, 22 Jan 2019 21:17:46
+dice(5)
+# Tue, 22 Jan 2019 21:18:04
+dice(5)
+# Tue, 22 Jan 2019 21:18:09
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:18:11
+dice(5)
+# Tue, 22 Jan 2019 21:18:57
+dice(5)
+# Tue, 22 Jan 2019 21:18:59
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:19:01
+dice(5)
+# Tue, 22 Jan 2019 21:21:07
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:21:09
+dice(5)
+#[Out]# 8
+# Tue, 22 Jan 2019 21:21:50
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:21:51
+dice(5)
+# Tue, 22 Jan 2019 21:22:33
+dice(5)
+# Tue, 22 Jan 2019 21:22:34
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:22:43
+validate()
+# Tue, 22 Jan 2019 21:25:25
+validate()
+# Tue, 22 Jan 2019 21:31:34
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:31:48
+roll_hundred_pair()
+# Tue, 22 Jan 2019 21:31:59
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:32:00
+roll_hundred_pair()
+# Tue, 22 Jan 2019 21:33:05
+roll_hundred_pair()
+# Tue, 22 Jan 2019 21:33:07
+%run 1.3.7/Vadali_1.3.7.py
+# Tue, 22 Jan 2019 21:33:08
+roll_hundred_pair()

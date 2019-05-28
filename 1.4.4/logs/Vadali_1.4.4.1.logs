@@ -1,0 +1,12 @@
+# IPython log file
+
+%run earthEyes.py
+ls
+cd ...
+cd  ..
+cd 1.4.4
+ls
+cd earthEyes.py
+%run  earthEyes.py
+%logstart -ort 1.4.4/Vadali_1.4.4.1.logs
+cd ..
